@@ -1,6 +1,6 @@
 class Dog
 
-End
+end
 
 Dog.new
 Dog.new
