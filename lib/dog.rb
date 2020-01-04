@@ -2,6 +2,6 @@ class Dog
 
 end
 
-Dog.new
-Dog.new
-Dog.new
+fido = Dog.new
+rover = Dog.new
+spot = Dog.new
