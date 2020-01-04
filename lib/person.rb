@@ -1,5 +1,5 @@
 Class Person
-  
+
 End
 
 adele_goldberg = new Person
