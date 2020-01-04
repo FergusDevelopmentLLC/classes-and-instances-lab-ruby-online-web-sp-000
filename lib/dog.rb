@@ -4,4 +4,3 @@ End
 Dog.new
 Dog.new
 Dog.new
-
