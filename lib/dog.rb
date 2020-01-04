@@ -1,4 +1,5 @@
-Class Dog
+class Dog
+
 End
 
 Dog.new
